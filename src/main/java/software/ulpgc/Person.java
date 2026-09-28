@@ -1,13 +1,5 @@
 package software.ulpgc;
 
-public class Person {
+public record Person(String name) {
 
-    private final String name;
-
-    public Person(String name) {
-        this.name = name;
-    }
-    public String name() {
-        return name;
-    }
 }
