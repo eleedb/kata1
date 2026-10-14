@@ -1,6 +1,6 @@
 # Kata 1
 __Autora__: Elena Díaz Batista  
-__Enlace a video explicativo__: https://drive.google.com/file/d/1VUVmoqX7pgJ36wbrHZZQhZOLrB8leI6G/view?usp=sharing 
+__Enlace a video explicativo__: https://drive.google.com/file/d/12OvaW1GcoLT7FyDrL0FboX9-Op7T5_Ps/view?usp=sharing 
 
 ---
 
